@@ -1,0 +1,44 @@
+body {
+	background: #bee4be;
+	font-family: 'Indie Flower', cursive;
+}
+h1 {
+	color: #e8419c;
+	margin-left: 250px;
+	font-size: 72px;
+}
+
+.blue {
+	color: blue;
+}
+.yellow {
+	color: red;
+	font-size: 36px;
+}
+
+h5 {
+	color: red;
+	font-size: 24px;
+}
+h6 {
+	color: black;
+	font-size: 18px;
+}
+h3 {
+	margin-left: 100px;
+}
+
+.text {
+	margin-left: 120px;
+}
+
+.li-1 {
+	margin-top: 200px;
+}
+.img-circle {
+	width: 300px;
+}
+
+.card {
+	margin-bottom: 20px;
+}

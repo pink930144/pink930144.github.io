@@ -1,0 +1,26 @@
+body {
+	background-image: url("../img/wallpaper.jpg");
+}
+h1 {
+	color: white;
+}
+h2{
+	color: white;
+}
+/*example of an element selector*/
+
+.main-img {
+	margin-left: 0px;
+	width: 300px;
+	border-style: inset;
+	border-color: white;
+}
+
+.main-heading {
+	margin-left: 500px;
+}
+
+
+.first-item {
+	color: yellow;
+}
